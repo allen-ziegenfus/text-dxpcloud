@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Http Request /,50,1438,1436,1470,1509,1528,1385,1528,0.000%,.55915,264.58,0.07
+Http Request /blog,20,1299,1262,1383,1565,1573,1214,1573,0.000%,.66315,202.18,0.08
+TOTAL,70,1398,1415,1470,1510,1565,1214,1573,0.000%,.77192,328.14,0.09
